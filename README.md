@@ -33,15 +33,20 @@ The Rewards Providing System is a web application that allows users to filter tr
 src/
 ├── api/
 │ └── fetchTransactions.js
+
 ├── components/
 │ ├── DataTableComponent.js
 │ └── FilterComponent.js
+
 ├── hooks/
 │ └── useTransactions.js
+
 ├── pages/
 │ └── Rewards.js
+
 ├── utils/
 │ └── calculateRewards.js
+
 ├── App.js
 └── index.js
 
