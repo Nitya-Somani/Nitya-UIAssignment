@@ -2,6 +2,9 @@
 
 This project is a React application designed to provide a system for tracking and displaying rewards points for customers based on their transaction history.
 
+# Live Link
+# https://retailer-repo.vercel.app/
+
 ## Table of Contents
 
 - [Overview](#overview)
